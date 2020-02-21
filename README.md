@@ -7,3 +7,4 @@
 ---
 * React.js
 * semantic-ui.com
+* faker.js
